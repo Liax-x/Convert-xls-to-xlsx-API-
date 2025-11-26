@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-pandas
-xlrd==2.0.1
-openpyxl
-python-multipart
-pyexcel
-pyexcel-xls
-pyexcel-xlsx
